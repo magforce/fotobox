@@ -1,0 +1,4 @@
+<map id="Preferences::savePreferences" name="Preferences::savePreferences">
+<area shape="rect" id="node1" title="Save the preferences to QSettings." alt="" coords="5,12,206,37"/>
+<area shape="rect" id="node2" href="$class_preference_provider.xhtml#a1bbf00bcafe7e0d8f4adf991a51a4656" title="get instance (Meyers Singleton)" alt="" coords="254,5,390,44"/>
+</map>

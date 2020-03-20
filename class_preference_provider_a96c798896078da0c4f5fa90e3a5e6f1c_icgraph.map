@@ -1,0 +1,6 @@
+<map id="PreferenceProvider::timeoutValueChanged" name="PreferenceProvider::timeoutValueChanged">
+<area shape="rect" id="node1" title="signal: timeout value for the camera framework has changed" alt="" coords="618,5,778,44"/>
+<area shape="rect" id="node2" href="$class_preference_provider.xhtml#a8593050ca82c56a9081c445dfc0f2366" title="set timeout value for the camera framework" alt="" coords="434,5,570,44"/>
+<area shape="rect" id="node3" href="$class_preferences.xhtml#a36e52663dbf3006c5dcf04d89cfd672d" title="Signal &amp; Slot connect." alt="" coords="226,12,386,37"/>
+<area shape="rect" id="node4" href="$class_preferences.xhtml#a137b56e8d51ff2712666f94263b2e34e" title="Preferences constructor." alt="" coords="5,12,178,37"/>
+</map>

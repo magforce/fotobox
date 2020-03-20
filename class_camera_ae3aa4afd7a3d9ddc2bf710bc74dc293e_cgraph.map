@@ -1,0 +1,4 @@
+<map id="Camera::Camera" name="Camera::Camera">
+<area shape="rect" id="node1" title="Camera constructor." alt="" coords="5,12,129,37"/>
+<area shape="rect" id="node2" href="$class_preference_provider.xhtml#a1bbf00bcafe7e0d8f4adf991a51a4656" title="get instance (Meyers Singleton)" alt="" coords="177,5,313,44"/>
+</map>

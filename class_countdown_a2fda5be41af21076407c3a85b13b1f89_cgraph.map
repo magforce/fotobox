@@ -1,0 +1,5 @@
+<map id="Countdown::Countdown" name="Countdown::Countdown">
+<area shape="rect" id="node1" title="Countdown constructor." alt="" coords="5,5,169,31"/>
+<area shape="rect" id="node2" href="$class_countdown.xhtml#a9098d9aba8a5e4841f93ca30414c78b0" title="Start the timer until there is no time left, means." alt="" coords="217,5,405,31"/>
+<area shape="rect" id="node3" href="$class_countdown.xhtml#a1d2e91a257e7867874a501c8565fcbdc" title="Stop countdown and check." alt="" coords="453,5,575,31"/>
+</map>

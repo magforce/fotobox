@@ -1,0 +1,6 @@
+<map id="Preferences::mouseMoveEvent" name="Preferences::mouseMoveEvent">
+<area shape="rect" id="node1" title="This event handler, for event event, can be reimplemented in a subclass to receive mouse move events ..." alt="" coords="5,31,213,56"/>
+<area shape="rect" id="node2" href="$class_preferences.xhtml#a1dcf663eabce314027a86d17d1d4867b" title="Stop countdown, stop mouse tracking and set normal window title name." alt="" coords="261,31,487,56"/>
+<area shape="rect" id="node3" href="$class_countdown.xhtml#a0b422db7af35db7b4f1ccee7ff6e515a" title="Show countdown status." alt="" coords="535,5,677,31"/>
+<area shape="rect" id="node4" href="$class_countdown.xhtml#a1d2e91a257e7867874a501c8565fcbdc" title="Stop countdown and check." alt="" coords="546,55,667,80"/>
+</map>

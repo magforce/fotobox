@@ -1,0 +1,5 @@
+<map id="Preferences::verifyApplication" name="Preferences::verifyApplication">
+<area shape="rect" id="node1" title="Check camera application availability and provide help if needed." alt="" coords="5,40,203,65"/>
+<area shape="rect" id="node2" href="$class_preferences.xhtml#a653e46e61dfaa3ec7b199778ca098dd1" title="Check if application is installed and available." alt="" coords="251,5,415,44"/>
+<area shape="rect" id="node3" href="$class_preferences.xhtml#a512d98485496a33c8eeae5a2bc2d3964" title="Read gphoto2 / libgphoto2 version and camera model." alt="" coords="251,68,415,93"/>
+</map>

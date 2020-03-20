@@ -1,0 +1,6 @@
+<map id="Preferences::stopCountdownMode" name="Preferences::stopCountdownMode">
+<area shape="rect" id="node1" title="Stop countdown, stop mouse tracking and set normal window title name." alt="" coords="481,31,708,56"/>
+<area shape="rect" id="node2" href="$class_preferences.xhtml#a36e52663dbf3006c5dcf04d89cfd672d" title="Signal &amp; Slot connect." alt="" coords="250,5,409,31"/>
+<area shape="rect" id="node4" href="$class_preferences.xhtml#aa50a76adea9578e5c101776ef2aaf0fa" title="This event handler, for event event, can be reimplemented in a subclass to receive mouse move events ..." alt="" coords="226,55,433,80"/>
+<area shape="rect" id="node3" href="$class_preferences.xhtml#a137b56e8d51ff2712666f94263b2e34e" title="Preferences constructor." alt="" coords="5,5,178,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Countdown::update" name="Countdown::update">
+<area shape="rect" id="node1" title="Update countdown." alt="" coords="638,105,775,131"/>
+<area shape="rect" id="node2" href="$class_foto_box.xhtml#ab6131adb44137e55734eb8bb0672fd38" title="With or without countdown." alt="" coords="196,55,339,80"/>
+<area shape="rect" id="node5" href="$class_preferences.xhtml#a137b56e8d51ff2712666f94263b2e34e" title="Preferences constructor." alt="" coords="181,117,354,143"/>
+<area shape="rect" id="node6" href="$class_countdown.xhtml#a13ddff9d6b42b10df1fd9a99e1317c21" title="Start countdown." alt="" coords="435,80,557,105"/>
+<area shape="rect" id="node7" href="$class_countdown.xhtml#a9098d9aba8a5e4841f93ca30414c78b0" title="Start the timer until there is no time left, means." alt="" coords="402,181,590,207"/>
+<area shape="rect" id="node3" href="$class_foto_box.xhtml#a7e0a5334bb6ff5f26443c422dae22d54" title="FotoBox constructor." alt="" coords="5,5,133,31"/>
+<area shape="rect" id="node4" href="$class_foto_box.xhtml#a78353b51782aab91a0b4eafac67be1c4" title="trigger camera to shot a photo and try to show it" alt="" coords="13,55,125,80"/>
+<area shape="rect" id="node8" href="$class_countdown.xhtml#a2fda5be41af21076407c3a85b13b1f89" title="Countdown constructor." alt="" coords="186,181,349,207"/>
+</map>

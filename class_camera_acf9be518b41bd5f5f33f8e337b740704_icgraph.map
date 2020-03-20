@@ -1,0 +1,6 @@
+<map id="Camera::shootPhoto" name="Camera::shootPhoto">
+<area shape="rect" id="node1" title="shoot a photo with gphoto2" alt="" coords="532,5,676,31"/>
+<area shape="rect" id="node2" href="$class_foto_box.xhtml#a78353b51782aab91a0b4eafac67be1c4" title="trigger camera to shot a photo and try to show it" alt="" coords="372,5,484,31"/>
+<area shape="rect" id="node3" href="$class_foto_box.xhtml#ab6131adb44137e55734eb8bb0672fd38" title="With or without countdown." alt="" coords="181,5,324,31"/>
+<area shape="rect" id="node4" href="$class_foto_box.xhtml#a7e0a5334bb6ff5f26443c422dae22d54" title="FotoBox constructor." alt="" coords="5,5,133,31"/>
+</map>

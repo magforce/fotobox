@@ -1,0 +1,15 @@
+<map id="Countdown::stop" name="Countdown::stop">
+<area shape="rect" id="node1" title="Stop countdown and check." alt="" coords="932,157,1053,183"/>
+<area shape="rect" id="node2" href="$class_countdown.xhtml#ad40778dc0f3575a3e04a8270d4e0d13e" title="Reset countdown (reset." alt="" coords="708,55,833,80"/>
+<area shape="rect" id="node7" href="$class_preferences.xhtml#a4f0c2844c169369eacff4a6c004b2d7d" title="Start the FotoBox." alt="" coords="682,132,859,157"/>
+<area shape="rect" id="node10" href="$class_preferences.xhtml#a1dcf663eabce314027a86d17d1d4867b" title="Stop countdown, stop mouse tracking and set normal window title name." alt="" coords="657,181,884,207"/>
+<area shape="rect" id="node12" href="$class_countdown.xhtml#a9098d9aba8a5e4841f93ca30414c78b0" title="Start the timer until there is no time left, means." alt="" coords="676,231,865,256"/>
+<area shape="rect" id="node3" href="$class_foto_box.xhtml#a78353b51782aab91a0b4eafac67be1c4" title="trigger camera to shot a photo and try to show it" alt="" coords="450,5,561,31"/>
+<area shape="rect" id="node6" href="$class_countdown.xhtml#a2c047ed2997b0d933b18ead33b3a6a5e" title="Set the countdown start time." alt="" coords="420,55,591,80"/>
+<area shape="rect" id="node4" href="$class_foto_box.xhtml#ab6131adb44137e55734eb8bb0672fd38" title="With or without countdown." alt="" coords="196,5,339,31"/>
+<area shape="rect" id="node5" href="$class_foto_box.xhtml#a7e0a5334bb6ff5f26443c422dae22d54" title="FotoBox constructor." alt="" coords="5,5,133,31"/>
+<area shape="rect" id="node8" href="$class_preferences.xhtml#a36e52663dbf3006c5dcf04d89cfd672d" title="Signal &amp; Slot connect." alt="" coords="426,156,586,181"/>
+<area shape="rect" id="node9" href="$class_preferences.xhtml#a137b56e8d51ff2712666f94263b2e34e" title="Preferences constructor." alt="" coords="181,131,354,156"/>
+<area shape="rect" id="node11" href="$class_preferences.xhtml#aa50a76adea9578e5c101776ef2aaf0fa" title="This event handler, for event event, can be reimplemented in a subclass to receive mouse move events ..." alt="" coords="402,205,609,231"/>
+<area shape="rect" id="node13" href="$class_countdown.xhtml#a2fda5be41af21076407c3a85b13b1f89" title="Countdown constructor." alt="" coords="424,255,587,280"/>
+</map>
